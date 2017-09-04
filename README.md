@@ -8,6 +8,7 @@ Try out the included sample project.
 -  Drag IDLocalizationManager folder to your project
 -  create a Localizable.strings file for each *.lproj folder (e.g. en.lproj, it.lproj, fr.lproj, de.lproj...)
 -  import IDLocalizationManager.h in your class
+
    Note : localizable.string file must contain key and value pair in format of "key" = "value"; dont forgot the ;(semicolon) at the end of line , otherwise it will not compile.
 -  use as follow :
 

@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Reset Language"; ObjectID = "3zV-Cg-prn"; */
+"3zV-Cg-prn.normalTitle" = "Reset Language";
+
+/* Class = "UILabel"; text = "Welcome to IDLocalizationManager"; ObjectID = "Arm-fY-A8T"; */
+"Arm-fY-A8T.text" = "Welcome to IDLocalizationManager";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "vyf-gp-dAC"; */
+"vyf-gp-dAC.normalTitle" = "Change Language";

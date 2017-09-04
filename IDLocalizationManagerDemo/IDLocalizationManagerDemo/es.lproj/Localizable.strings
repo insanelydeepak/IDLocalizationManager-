@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  IDLocalizationManagerDemo
+
+  Created by Deepak on 04/09/17.
+  Copyright © 2017 InsanelyDeepak. All rights reserved.
+*/
+"welcome"     = "Bienvenido a IDLocalizationManager";
+"change"      = "Cambiar";
+"reset"       = "Restablecer";
+"Alert_Title" = "Elija Idioma";
+"Alert_Msg"   = "Este lenguaje se utilizará para toda la aplicación";

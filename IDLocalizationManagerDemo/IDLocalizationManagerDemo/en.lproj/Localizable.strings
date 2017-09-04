@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  IDLocalizationManagerDemo
+
+  Created by Deepak on 04/09/17.
+  Copyright © 2017 InsanelyDeepak. All rights reserved.
+*/
+"welcome"     = "Welcome to IDLocalizationManager";
+"change"      = "Change";
+"reset"       = "Reset";
+"Alert_Title" = "Choose Language";
+"Alert_Msg"   = "This language will be used for whole application";
