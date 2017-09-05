@@ -12,8 +12,8 @@
 {
     UIAlertController *alertSheet ;
     NSArray *availableLanguges;
-    IBOutlet UIButton *changeLanguage;
-    IBOutlet UIButton *resetLanguage;
+    IBOutlet UIButton *change;
+    IBOutlet UIButton *reset;
     
 }
 

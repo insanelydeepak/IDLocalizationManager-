@@ -30,8 +30,8 @@
 }
 -(void)setUIText {
     _lblText.text = LocalizedString(@"welcome");
-    [changeLanguage setTitle:@"change" forState:UIControlStateNormal];
-    [resetLanguage setTitle:@"reset" forState:UIControlStateNormal];
+    [change setTitle:LocalizedString(@"change") forState:UIControlStateNormal];
+    [reset setTitle:LocalizedString(@"reset") forState:UIControlStateNormal];
     
     
     //------------- Get What iOS Language is now -------------
