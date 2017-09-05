@@ -1,7 +1,7 @@
 # IDLocalizationManager
  IDLocalizationManager is a localization manager class (singleon class) for Objective-C. provides efficient way of localisation of application without changing system language and without restarting device .
 
-![IDLocalizationManager](https://github.com/insanelydeepak/IDLocalizationManager-iOS/blob/Screenshot/IDLocalizationManager.gif)
+![IDLocalizationManager](https://raw.githubusercontent.com/insanelydeepak/IDLocalizationManager-iOS/master/Screenshot/IDLocalizationManager.gif)
 ## Usage :
 Try out the included sample project.
 
