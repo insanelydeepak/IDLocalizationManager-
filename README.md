@@ -97,7 +97,12 @@ belows are available macros :
 6.IDLocalizationResetLanguageToDefault
 7.IDLocalizationDisplayNameForLanguage(@"en")
 ```
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](http://paypal.me/insanelydeepak)
+
+
 
 # License
-
 Licensed under the New BSD License.
